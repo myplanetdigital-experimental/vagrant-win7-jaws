@@ -39,8 +39,8 @@ First download and install v1.5 of the Heimdal binaries in DMG format:
 
 http://www.h5l.org/dist/src/
 
-    git clone _____
-    cd ___
+    git clone https://github.com/myplanetdigital/vagrant-win7-jaws.git
+    cd vagrant-win7-jaws
     bundle install
     gem regenerate_binstubs
     librarian-chef install
